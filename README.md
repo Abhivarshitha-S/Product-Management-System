@@ -17,3 +17,11 @@
 - Java: Core language for application development.
 - MySQL: Database management system for storing product data.
 - JDBC: Java Database Connectivity for connecting Java application with MySQL database.
+
+## **Usage**
+
+- Add a new product
+- View existing products
+- Search for a product
+- Update product details
+- Delete a product
